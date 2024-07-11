@@ -72,3 +72,4 @@ form button:hover {
 .book-item button:hover {
     background-color: #d32f2f;
 }
+.deleteB{background-color:#d32f2f ; border-color: none; border-style: none; height: 20px;}
